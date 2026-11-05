@@ -68,6 +68,15 @@ Two Machine Learning algorithms were trained and evaluated:
 ### Confusion Matrix
 ![Confusion Matrix](screenshots/confusion_matrix.png)
 
+### Internet Service vs Churn
+![Internet Service Churn](screenshots/internet_service_churn.png)
+
+### Monthly Charges vs Churn
+![Monthly Charges Churn](screenshots/monthly_charges_churn.png)
+
+### Tenure vs Churn
+![Tenure Churn](screenshots/tenure_churn.png)
+
 ## 💻 Installation and Setup
 
 ### 1. Clone the Repository
